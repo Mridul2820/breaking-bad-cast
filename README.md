@@ -1,6 +1,7 @@
 # Breaking Bad Cast React App
 
 This project is from [Traversy Media](https://www.youtube.com/watch?v=YaioUnMw0mo).
+<br/>
 The Breaking Bad [API](https://www.breakingbadapi.com/api/)
 
 ## Available Deploy on Netlify
