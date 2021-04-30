@@ -11,3 +11,6 @@ The Project can be viewd at [Netlify](https://breaking-bad-react-m.netlify.app/)
 ## Available Deploy on Vercel
 
 The Project can be viewd at [Vercel](https://breaking-bad-cast-two.vercel.app/)
+
+### Screenshot 
+<img align="left" src="https://github.com/Mridul2820/apps-react/blob/master/public/image/breaking-bad-cast.png" alt="toi-clone" width="100%">
